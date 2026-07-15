@@ -1,0 +1,82 @@
+{
+  "model_name": "Random Forest",
+  "rmse": 29617.355858867417,
+  "r2": 0.8856387923568544,
+  "features": [
+    "OverallQual",
+    "GrLivArea",
+    "TotalBsmtSF",
+    "GarageCars",
+    "YearBuilt",
+    "FullBath",
+    "LotArea",
+    "TotRmsAbvGrd",
+    "YearRemodAdd",
+    "Neighborhood"
+  ],
+  "neighborhoods": [
+    "Blmngtn",
+    "Blueste",
+    "BrDale",
+    "BrkSide",
+    "ClearCr",
+    "CollgCr",
+    "Crawfor",
+    "Edwards",
+    "Gilbert",
+    "IDOTRR",
+    "MeadowV",
+    "Mitchel",
+    "NAmes",
+    "NPkVill",
+    "NWAmes",
+    "NoRidge",
+    "NridgHt",
+    "OldTown",
+    "SWISU",
+    "Sawyer",
+    "SawyerW",
+    "Somerst",
+    "StoneBr",
+    "Timber",
+    "Veenker"
+  ],
+  "ranges": {
+    "OverallQual": [
+      1,
+      10
+    ],
+    "GrLivArea": [
+      334,
+      5642
+    ],
+    "TotalBsmtSF": [
+      0,
+      6110
+    ],
+    "GarageCars": [
+      0,
+      4
+    ],
+    "YearBuilt": [
+      1872,
+      2010
+    ],
+    "FullBath": [
+      0,
+      3
+    ],
+    "LotArea": [
+      1300,
+      215245
+    ],
+    "TotRmsAbvGrd": [
+      1,
+      14
+    ],
+    "YearRemodAdd": [
+      1950,
+      2010
+    ]
+  }
+}
