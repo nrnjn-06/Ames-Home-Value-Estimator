@@ -1,4 +1,4 @@
-# 🏡 Ames Home Value Estimator
+#  Ames Home Value Estimator
 
 An end-to-end machine learning web application that predicts residential
 sale prices from property characteristics, trained on the **Ames Housing
@@ -8,7 +8,7 @@ deployment — wrapped in a live, interactive web interface.
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 Given a handful of property details (square footage, quality rating,
 garage size, neighborhood, etc.), the app returns an estimated sale
@@ -22,7 +22,7 @@ practical interface without a meaningful loss in accuracy.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Clean, responsive single-page form for entering property details
 - Real-time price prediction via a REST API (no page reload)
@@ -64,7 +64,7 @@ lower error and higher explained variance.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 house-price-app/
@@ -83,7 +83,7 @@ house-price-app/
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **`train.py`** loads the raw dataset, builds a preprocessing pipeline
    (`SimpleImputer` → `StandardScaler`/`OneHotEncoder` via
@@ -100,7 +100,7 @@ house-price-app/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repo
 ```bash
@@ -138,7 +138,7 @@ better.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 [Ames Housing Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 — 1,460 residential property sales in Ames, Iowa, with 79 explanatory
@@ -147,7 +147,7 @@ condition, location, year built, and more).
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Add more features to the model with a progressive/advanced input mode
 - Model explainability (e.g. SHAP values) to show *why* a price was predicted
