@@ -32,7 +32,7 @@ practical interface without a meaningful loss in accuracy.
 
 ---
 
-## 🧠 Model & Performance
+##  Model & Performance
 
 Two regression models were trained and compared on an 80/20 train-test
 split:
@@ -51,7 +51,7 @@ lower error and higher explained variance.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer            | Tools |
 |-------------------|-------|
