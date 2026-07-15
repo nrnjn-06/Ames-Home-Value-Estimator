@@ -158,5 +158,6 @@ condition, location, year built, and more).
 
 ## 👤 Author
 
+
 **Niranjan S**
-[LinkedIn](https://linkedin.com/in/niranjan-s) · niranjan.syamsj@gmail.com
+[LinkedIn](https://linkedin.com/in/niranjan--s) · niranjan.syamsj@gmail.com
